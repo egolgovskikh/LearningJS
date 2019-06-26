@@ -1,0 +1,10 @@
+
+.games_widget_left {
+    float: left;
+    width: 50%;
+}
+
+.games_widget_right {
+    float: right;
+    width: 50%;
+}
